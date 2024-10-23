@@ -13,8 +13,6 @@
 <p align="center">📚 I'm currently learning Javascript and MongoDB<br>🎯 Goals: Improve my hard skills and learn another languages</p>
 
 ###
-![image](https://github.com/user-attachments/assets/406062bf-6051-4cf9-84ec-392161cc24de)
-
 
 <h2 align="left">I code with</h2>
 
