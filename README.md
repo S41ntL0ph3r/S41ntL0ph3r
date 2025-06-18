@@ -1,8 +1,8 @@
-<h1 align="left">Hi everyone 👋, my name is Gabriel Moreira</h1>
+<h1 align="left">Hello everyone 👋, my name is Gabriel Moreira</h1>
 
 ###
 
-<p align="left">My name is Gabriel; I'm from Brazil, and I'm 18 years old.</p>
+<p align="left">My name is Gabriel; I'm from Brazil, and I'm 19 years old.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Javascript and MongoDB<br>🎯 Goals: Improve my hard skills and learn another languages</p>
+<p align="center">📚 I'm currently learning TypeScript and Python <br>🎯 Goals: Improve my hard skills and learn another languages</p>
 
 ###
 
